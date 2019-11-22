@@ -1,0 +1,19 @@
+{
+  "name": "api-e-commerce",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "codephs <codephs@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^3.0.7",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.7.12",
+    "nodemailer": "^6.3.1",
+    "require-dir": "^1.2.0",
+    "yup": "^0.27.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
